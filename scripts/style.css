@@ -1,0 +1,51 @@
+body {
+  background-color: #bf9bc4 !important;
+  text-align: center;
+}
+
+button {
+  background-color: #0f5cd8 !important;
+  border-radius: 50px !important;
+  margin: 10px 20px !important;
+  border-top, border-left: 2px #000 solid !important;
+  height: 50px;
+  font-size: 20px !important;
+  color: skyblue !important;
+}
+
+button:focus {
+  outline:0;
+}
+
+#input {
+
+  border-radius: 50px !important;
+  height: 50px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+img {
+  max-width: 50px !important;
+}
+
+h3 {
+  padding-left: 20px;
+}
+
+td {
+  vertical-align: middle;
+}
+
+.jumbotron {
+  margin-top: 10px;
+  background-color: #bf9bc4 !important;
+}
+
+.well {
+  background-color: #c4e0be !important;
+  border: 0 !important;
+  border-radius: 50px !important;
+  padding: 10px !important;
+
+}
